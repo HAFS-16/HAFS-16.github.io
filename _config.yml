@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "정문규"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/눈.png"
   bio              : "복받으실거예요"
   location         : "대한민국, 서울"
   email            : "unravelare@gmail.com"
